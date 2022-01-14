@@ -12,7 +12,7 @@ import com.example.news.ui.theme.ComposeDemoTheme
 
 class MainActivity : ComponentActivity() {
     private val name: String by lazy {
-        "ff"
+        "sssff"
     }
 
 
